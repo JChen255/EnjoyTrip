@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7E3A9BF5-989A-4FE6-804F-E77458DD429D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABC69520-0467-4A5B-B9D1-A6F654A85C7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripAdvisor/Views/Destination/DestinationCard.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ABC69520-0467-4A5B-B9D1-A6F654A85C7D - c080a44c71292b91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TripAdvisor.DestinationCard.body.getter : some"
+                  moduleName = "TripAdvisor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jajachen/Desktop/ios%20batch/Project/FinalProject/IOS-FinalProject/TripAdvisor/TripAdvisor/Views/Destination/DestinationCard.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "ABC69520-0467-4A5B-B9D1-A6F654A85C7D - c080a44c71292b91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Text, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in TripAdvisor.DestinationCard.body.getter : some"
+                  moduleName = "TripAdvisor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jajachen/Desktop/ios%20batch/Project/FinalProject/IOS-FinalProject/TripAdvisor/TripAdvisor/Views/Destination/DestinationCard.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60146F34-2AF7-40DB-8D22-7E81065EAFC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripAdvisor/ViewModels/TripPlanViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "updateTrip(_:_:_:_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60146F34-2AF7-40DB-8D22-7E81065EAFC7 - a5d70d2282d15d99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripAdvisor.TripPlanViewModel.editTrip(TripAdvisor.Trip, inout TripAdvisor.Trip, TripAdvisor.TripPlanViewModel, Swift.String, Swift.String, inout Swift.String, inout Swift.Bool) -&gt; ()"
+                  moduleName = "TripAdvisor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jajachen/Desktop/ios%20batch/Project/FinalProject/IOS-FinalProject/TripAdvisor/TripAdvisor/ViewModels/TripPlanViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "60146F34-2AF7-40DB-8D22-7E81065EAFC7 - a5d70d2282d15ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripAdvisor.TripPlanViewModel.editTrip(TripAdvisor.Trip, inout TripAdvisor.Trip, TripAdvisor.TripPlanViewModel, Swift.String, Swift.String, inout Swift.String, inout Swift.Bool) -&gt; ()"
+                  moduleName = "TripAdvisor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jajachen/Desktop/ios%20batch/Project/FinalProject/IOS-FinalProject/TripAdvisor/TripAdvisor/ViewModels/TripPlanViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79D619CF-DCA7-4BAA-84D6-9504B62D51E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripAdvisor/ViewModels/TripPlanViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "updateTrip(_:_:_:_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79D619CF-DCA7-4BAA-84D6-9504B62D51E6 - a5d70d2282d15dba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripAdvisor.TripPlanViewModel.editTrip(TripAdvisor.Trip, inout TripAdvisor.Trip, TripAdvisor.TripPlanViewModel, Swift.String, Swift.String, inout Swift.String, inout Swift.Bool) -&gt; ()"
+                  moduleName = "TripAdvisor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jajachen/Desktop/ios%20batch/Project/FinalProject/IOS-FinalProject/TripAdvisor/TripAdvisor/ViewModels/TripPlanViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "79D619CF-DCA7-4BAA-84D6-9504B62D51E6 - a5d70d2282d15df8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripAdvisor.TripPlanViewModel.editTrip(TripAdvisor.Trip, inout TripAdvisor.Trip, TripAdvisor.TripPlanViewModel, Swift.String, Swift.String, inout Swift.String, inout Swift.Bool) -&gt; ()"
+                  moduleName = "TripAdvisor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jajachen/Desktop/ios%20batch/Project/FinalProject/IOS-FinalProject/TripAdvisor/TripAdvisor/ViewModels/TripPlanViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDE28548-EE41-41C5-ABE4-3E409707FACA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripAdvisor/ViewModels/TripPlanViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateTrip(_:_:_:_:_:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
