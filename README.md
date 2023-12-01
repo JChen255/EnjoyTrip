@@ -1,7 +1,7 @@
 # EnjoyTrip
 
 ## Introduction
-**EnjoyTrip** is an innovative trip planning app designed for iOS, utilizing the power of Swift and SwiftUI. This app showcases modern iOS development techniques including MVVM architecture, Environment Objects, UserDefaults for data persistence, and multithreading to ensure a responsive user experience.
+**EnjoyTrip** is an innovative trip planning app designed for iOS, utilizing the power of Swift and SwiftUI. This app showcases modern iOS development techniques including MVVM architecture, Environment Objects, UserDefaults for data persistence, and multithreading to ensure a responsive user experience🛤️.
 
 ## Technical Stack
 - **Swift & SwiftUI**: Core technologies for iOS app development.
@@ -76,26 +76,20 @@
 - **App Feedback**: Integrated feedback system.
 - **Logout Feature**: Securely ends the user session.
 
-## Firebase Schemas
-- Detailed structure for User, Profile, Destination, Review, Trip, and Feedback entities.
-
 ## Development Notes
 - **MVVM**: Utilized for data handling and business logic.
 - **Environment Objects**: For global state management.
 - **UserDefaults**: For storing simple user preferences.
 - **Multithreading**: Ensures the UI is responsive while performing background tasks.
 
+## Firebase Schemas
+- **User**: Holds information like display name, email, password, lists of reviews, trips, saves, currency, and profile.
+- **Profile**: Details like full name, location, join date, photo, about you, and uploaded photos.
+- **Destination**: Contains attributes like name, owner, location, description, review list, price, languages, age recommendation, and recommendations.
+- **Review**: Linked to destinations, includes rating, title, description, and timestamp.
+- **Trip**: Consists of destination list, collaborators, duration, title, description, and privacy setting.
+- **Feedback**: Captures user feedback with rating, description, and timestamp.
+
 ## Getting Started
-Instructions on setting up the project environment and running the app.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-MIT License information.
-
-## Contact
-Your contact information and project link.
-
----
-*Note: Specific project details might need to be added or adjusted based on actual development.*
+- **Installation**: Clone the repo and install necessary dependencies.
+- **Run**: Open the project in Xcode and run it on a simulator or a real device.
