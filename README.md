@@ -34,6 +34,7 @@
 <img src="https://github.com/JChen255/EnjoyTrip/assets/98052549/b2a2d022-3c2e-460b-b8e1-97c7edbf778e" width="200" >
 <img src="https://github.com/JChen255/EnjoyTrip/assets/98052549/a9a06123-5379-4979-9e66-65c876436202" width="200" >
 <img src="https://github.com/JChen255/EnjoyTrip/assets/98052549/a6424503-a865-432f-a1da-8434b91c9be1" width="200" >
+<img src="https://github.com/JChen255/EnjoyTrip/assets/98052549/6c74baff-a095-48d2-ad9d-405d11e883bd" width="200" >
 
 ### Setting
 <img src="https://github.com/JChen255/EnjoyTrip/assets/98052549/7e35096e-820c-41e3-a768-ffc59379840e" width="200" >
